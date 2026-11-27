@@ -5,6 +5,11 @@
 | 人 | 技能 | 数据 | 一句话 |
 |---|---|---|---|
 | [sigewinne](sigewinne/) | `sigewinne-priv` `sigewinne-group` | 同一个人：私聊 qwq 考据党，群里看戏短评 |
+| [liangmi](liangmi/) | `liangmi` | 中英夹杂，「我去」「不过」开头，技术问题一句一步 |
+| [miku](miku/) | `miku` | 666 刷到六位数，转头讲自己的 mschat 站点 |
+| [glow](glow/) | `glow` | 六个字以内的反应，「好好好」「彳亍」+ 😰😭 |
+| [mosm](mosm/) | `mosm` | 「1」当收到，最短回复主义 |
+| [wind](wind/) | `wind` | 「开心亖了」「半斤悠哉」+ 跟机器人猜单词 |
 | [xhg0322](xhg0322/) | `xhg` | 技能正文 | 辽宁高中生，666 和「我滴妈」，讲题先列条件 |
 | [nkawa](nkawa/) | `nkawa` | 技能正文 | 大学生语音党，「他妈」当逗号，深夜突然 emo |
 | [nhd](nhd/) | `nhd` | 技能正文 | 每条都 @ 人，「何意味」「神了」，抽卡和音游的账算得清 |

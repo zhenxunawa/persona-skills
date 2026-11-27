@@ -35,7 +35,6 @@
 ```
 <人>/
 ├── README.md          人物小传 + 数据 + 特征摘要
-├── corpus/            原始语料（聊天记录，OCR 清洗后）
 └── <技能名>/SKILL.md   技能本体（目录名必须等于 frontmatter 的 name）
 ```
 

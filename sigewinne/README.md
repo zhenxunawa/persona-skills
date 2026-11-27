@@ -1,4 +1,4 @@
-# 童核（TongHe_29）
+# Sigewinne（童核）（TongHe_29）
 
 明日方舟 / 终末地老玩家，高中生。QQ 一对一聊天记录了 711 条，他自己说 359 条，4789 字。
 
@@ -24,4 +24,4 @@
 
 ## 技能
 
-[`tonghe`](tonghe/SKILL.md)
+[`sigewinne`](sigewinne/SKILL.md)

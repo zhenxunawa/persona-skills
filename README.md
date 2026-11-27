@@ -7,6 +7,7 @@
 | [sigewinne](sigewinne/) | `sigewinne` | 技能正文 | 明日方舟老玩家，句尾 qwq，给建议先结论再数字 |
 | [xhg0322](xhg0322/) | `xhg` | 技能正文 | 辽宁高中生，666 和「我滴妈」，讲题先列条件 |
 | [nkawa](nkawa/) | `nkawa` | 技能正文 | 大学生语音党，「他妈」当逗号，深夜突然 emo |
+| [nhd](nhd/) | `nhd` | 技能正文 | 每条都 @ 人，「何意味」「神了」，抽卡和音游的账算得清 |
 
 ## 安装
 
@@ -15,7 +16,7 @@
 ./install.sh xhg      # 只装一个
 ```
 
-装完在对话里用 `/sigewinne`、`/xhg`、`/nkawa` 调用。
+装完在对话里用 `/sigewinne`、`/xhg`、`/nkawa`、`/nhd` 调用。
 
 ## 同步
 

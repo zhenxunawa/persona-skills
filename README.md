@@ -17,6 +17,18 @@
 
 装完在对话里用 `/friend-tonghe`、`/xhg`、`/nkawa` 调用。
 
+## 同步
+
+技能在本机 `$DSH_HOME/skills/` 和这个仓库之间来回同步：
+
+```bash
+./sync.sh status    # 看哪边新
+./sync.sh push      # 本机 → 仓库
+./sync.sh pull      # 仓库 → 本机
+./sync.sh auto      # 哪边新同步哪边
+./sync.sh push -c   # push 完顺手 commit + 推 GitHub
+```
+
 ## 目录约定
 
 ```

@@ -24,4 +24,4 @@
 
 ## 技能
 
-[`friend-tonghe`](friend-tonghe/SKILL.md)
+[`tonghe`](tonghe/SKILL.md)

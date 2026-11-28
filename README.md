@@ -5,6 +5,7 @@
 | 人 | 技能 | 数据 | 一句话 |
 |---|---|---|---|
 | [sigewinne](sigewinne/) | `sigewinne-priv` `sigewinne-group` | 同一个人：私聊 qwq 考据党，群里看戏短评 |
+| [zhenxunawa](zhenxunawa/) | `zhenxunawa` | 群里的中心人物：短句 + 666 + 「何意味」+ 外号 |
 | [liangmi](liangmi/) | `liangmi` | 中英夹杂，「我去」「不过」开头，技术问题一句一步 |
 | [miku](miku/) | `miku` | 666 刷到六位数，转头讲自己的 mschat 站点 |
 | [glow](glow/) | `glow` | 六个字以内的反应，「好好好」「彳亍」+ 😰😭 |
@@ -21,7 +22,7 @@
 ./install.sh xhg      # 只装一个
 ```
 
-装完在对话里用 `/sigewinne-priv`、`/sigewinne-group`、`/xhg`、`/nkawa`、`/nhd` 调用。
+装完在对话里用 `/zhenxunawa`、`/liangmi`、`/sigewinne-priv`、`/sigewinne-group`、`/nhd`、`/xhg`、`/nkawa`、`/miku`、`/glow`、`/mosm`、`/wind` 调用。
 
 ## 同步
 
